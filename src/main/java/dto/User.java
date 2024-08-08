@@ -7,4 +7,5 @@ public class User extends UserDetails{
     private String email;
     private List<Phone> phones;
     private CreditCard creditCard;
+    private Order order;
 }
