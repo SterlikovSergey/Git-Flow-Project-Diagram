@@ -1,6 +1,6 @@
 package main.java.dto;
 
-public class User {
+public class User extends UserDetails{
     private String name;
     private String email;
 }
