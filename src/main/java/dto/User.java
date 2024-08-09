@@ -8,4 +8,5 @@ public class User extends UserDetails{
     private List<Email> emails;
     private CreditCard creditCard;
     private Order order;
+    private String password;
 }
